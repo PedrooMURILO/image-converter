@@ -1,4 +1,4 @@
-# Image to JPEG Converter (Processador de Imagens Pro)
+# Image to JPEG Converter (Processador de Imagens)
 
 Um aplicativo simples com interface gráfica, feito em Python utilizando CustomTkinter, para converter diversos formatos de imagem para o formato JPEG. 
 Ele suporta a conversão de múltiplas imagens em lote.

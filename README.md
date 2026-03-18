@@ -42,5 +42,5 @@ pip install customtkinter pillow pillow-heif rawpy svglib reportlab
 Simplesmente execute o arquivo principal usando o seu Python via terminal/Prompt de Comando:
 
 ```bash
-python imagem.py
+python image-converter.py
 ```
